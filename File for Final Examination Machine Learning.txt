@@ -1,0 +1,7 @@
+File for Final Examination Machine Learning
+
+file colab notebooks
+https://drive.google.com/drive/folders/1z1cSq9PgG5CWnHIKc8IFGCb7CPtw4gLP?usp=sharing
+
+file hymenoptera_data
+https://drive.google.com/drive/folders/1z2JSy1ipumtrf-HdYk53COwb7ZLVRQI1?usp=sharing
